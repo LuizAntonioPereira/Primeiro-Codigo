@@ -1,6 +1,6 @@
 # Logica C++ && Codigos C# , PHP, Javascript e C# Unity
 
-Códigos fontes & conceito c++:
+Códigos fontes & Conceito c++:
 
 # C++:
 
@@ -10,7 +10,6 @@ Códigos fontes & conceito c++:
 # C#:
 
 * Socket cliente e servidor
-* Socket cliente e servidor para Android e IOS
 * Codigos simples
 
 # C# Unity:
