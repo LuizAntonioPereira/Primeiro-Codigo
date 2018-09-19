@@ -6,8 +6,6 @@ using namespace std;
 
 //Começo de um programa
 int main (){
-	
-	//Variaval	
 
 	//Variavel tipo inteiro
 	int num;
